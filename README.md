@@ -1,3 +1,3 @@
 Pokedex
 
-Project React with axios
+Project React with axios and styled-components
